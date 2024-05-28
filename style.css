@@ -18,7 +18,7 @@ max-height: 100vh;
 max-width: 100vw;
 }
 body {
-color: #2F61D6;
+color: #757575;
 font-family: 'Roboto Mono', monospace;
 background-color: white;
 font-size: 1.2em;
@@ -26,7 +26,7 @@ min-width: 500px;
 word-wrap: break-word;
 }
 a{
-color:#2F61D6;
+color:#757575;
 
 }
 .details>a{
@@ -94,7 +94,7 @@ padding: 10px;
 padding-left: 30px;
 }
 .blue{
-border-color: #2F61D6;
+border-color: #757575;
 }
 .image{
 background: url(./pic/pas.png);
@@ -121,21 +121,21 @@ flex-direction: column;
 .left{
 width: 33%;
 /* min-width: 363px; */
-background-color: #2F61D6;
+background-color: #757575;
 color:white;
 }
 .right{
 width:max(66%,36vw,200px);
 /* min-width: 726px; */
 background-color: white;
-color:#2F61D6;
+color:#757575;
 }
 .item-left{
 border: 2px solid white;
 margin-bottom: 20px;
 }
 .item-right{
-border: 2px solid #2F61D6;
+border: 2px solid #757575;
 margin-bottom: 20px;
 
 }
@@ -182,7 +182,7 @@ max-height: 100vh;
 max-width: 100vw;
 }
 body {
-color: #2F61D6;
+color: #757575;
 font-family: 'Roboto Mono', monospace;
 background-color: white;
 /* background-color: silver; */
@@ -191,7 +191,7 @@ min-width: 500px;
 word-wrap: break-word;
 }
 a{
-color:#2F61D6;
+color:#757575;
 
 }
 .details>a{
@@ -297,7 +297,7 @@ padding: 10px;
 padding-left: 30px;
 }
 .blue{
-border-color: #2F61D6;
+border-color: #757575;
 }
 .image{
 background: url(./pic/pas.png);
@@ -327,17 +327,17 @@ border: 2px solid white;
 /* margin-bottom: 20px; */
 /* width: 33%; */
 /* min-width: 363px; */
-background-color: #2F61D6;
+background-color: #757575;
 color:white;
 /* height: min(350px,32vh); */
 }
 .item-right{
-border: 2px solid royalblue;
+border: 2px solid #757575;
 /* margin-bottom: 20px; */
 /* width:max(66%,36vw,200px); */
 /* min-width: 726px; */
 background-color: white;
-color:#2F61D6;
+color:#757575;
 
 }
 .padded{
@@ -377,7 +377,7 @@ margin-bottom: 0;
 
 .blue-padded{
     padding: 10px 30px;
-    background-color: #2F61D6;
+    background-color: #757575;
 }
 .white-padded{
     padding: 10px 30px;
@@ -430,7 +430,7 @@ margin-bottom: 0;
 }
 .blue-padded{
 padding: 10px;
-background-color: #2F61D6;
+background-color: #757575;
 }
 .white-padded{
     padding: 10px;
@@ -438,6 +438,6 @@ background-color: #2F61D6;
 }
 body{
     min-width: 200px;
-    background-color: #2F61D6;
+    background-color: #757575;
 }
 }
